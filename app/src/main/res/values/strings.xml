@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Si_Nau</string>
+    <string name="menu_name">Kelas Name</string>
+    <string name="menu_detail">Kelas Detail</string>
+</resources>

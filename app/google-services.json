@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69480746996",
+    "project_id": "si-nau",
+    "storage_bucket": "si-nau.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69480746996:android:709827fa0c1741f8dd33a1",
+        "android_client_info": {
+          "package_name": "com.example.si_nau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69480746996-fgd84s8k2cb0tb6bgbf7b9ho2f84pk6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpdTnyvaLa0gve62OBtzXChyMfq-pCToU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69480746996-fgd84s8k2cb0tb6bgbf7b9ho2f84pk6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
